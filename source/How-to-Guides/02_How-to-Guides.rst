@@ -1,15 +1,13 @@
 入门指南
 =============
-入门指南
 
 
-前置条件
-先决条件
 您必须具有特定池子的基础令牌。 对于MDX-WHT，您需要MDX令牌和WHT令牌。 其他各个池子也是如此。
 
 您必须拥有受支持的钱包，即Metamask，Trust Wallet或Walletconnect！
 
 例子
+======
 1 转到Wallaby.finance/，然后单击“连接钱包”
 
 2 根据您的使用情况，单击“ Metamask”或“ WalletConnect”图标
